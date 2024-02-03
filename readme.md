@@ -1,2 +1,2 @@
-This repo is prepared to be worked on in Julia workshop, organized by Esfahan university. 1402-11-10
+This repository contains all materials have been worked on Julia workshop, organised by Physical Society of Iran on 1402-Bahman-11.
 
